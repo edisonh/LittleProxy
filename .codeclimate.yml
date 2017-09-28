@@ -1,0 +1,10 @@
+engines:
+  PMD:
+    enabled: true
+  checkstyle:
+    enabled: true
+  duplication:
+    enabled: true
+  fixme:
+    enabled: true
+   
